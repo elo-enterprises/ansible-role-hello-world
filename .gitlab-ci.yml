@@ -2,7 +2,7 @@ stages:
   - test
 
 syntax_check:
-  image: chusiang/ansible:alpine-3.6
+  image: elo/ansible:alpine-3.6
   stage: test
   script:
     - make syntax_check

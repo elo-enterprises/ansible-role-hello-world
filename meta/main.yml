@@ -1,8 +1,9 @@
 galaxy_info:
-  author: chusiang
-  description: An Ansible role example for automate-with-ansible book.
-  company: commandp Inc.
-
+  author: elo
+  role_name: hello-world
+  description: Demo role
+  license: MIT
+  
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
   # issue_tracker_url: http://example.com/issue/tracker
